@@ -1,0 +1,18 @@
+.waitMessage {
+    text-transform: uppercase;
+    color: rgba(23, 7, 248, 0.3);
+    font-size: 25px;
+    line-height: 1;
+    font-weight: 500;
+  }
+  
+  .loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

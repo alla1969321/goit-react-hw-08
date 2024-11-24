@@ -1,0 +1,13 @@
+.registrContainer {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: rgb(0, 4, 255);
+  }
+  
+  .link:hover {
+    color: red;
+  }

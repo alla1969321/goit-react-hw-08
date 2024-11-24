@@ -1,0 +1,49 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #212121;
+    border-radius: 5px;
+    align-items: center;
+  }
+  
+  .inputFormNumber {
+    width: 250px;
+    height: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .inputFormName {
+    width: 250px;
+    height: 30px;
+  }
+  
+  .btnForm {
+    background-color: rgb(17, 0, 255);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+  }
+  
+  .btnForm:hover {
+    background-color: rgb(17, 0, 255);
+    cursor: pointer;
+  }
+  
+  .formContainerItem {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .error {
+    color: rgb(255, 0, 17);
+  }
+  
+  .errorContainer {
+    display: flex;
+    gap: 10px;
+  }

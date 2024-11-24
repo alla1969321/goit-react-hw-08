@@ -1,0 +1,39 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  .registrationContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .registrationTitle {
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: rgb(255, 0, 17);
+  }
+  
+  .nameContainer {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .registrBtn {
+    background-color: rgb(0, 8, 255);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+  }
+  
+  .registrBtn:hover {
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+  }

@@ -1,0 +1,57 @@
+.editBtn {
+    color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+  }
+  .editBtn:hover {
+    color: rgb(0, 17, 255);
+  }
+  
+  .modalContainer .openBtn {
+    min-width: 23px;
+    min-height: 23px;
+    padding: 0;
+  }
+  
+  .modalContainer .openBtn:hover {
+    background-color: transparent;
+  }
+  
+  .btnContainer .btnYes {
+    color: black;
+    font-weight: 700;
+    padding: 2px;
+    transition: border ease-in-out 0ms;
+  }
+  .btnContainer .btnYes:hover {
+    border: 1.5px solid rgb(38, 0, 255);
+    font-weight: 700;
+    background-color: transparent;
+    padding: 0;
+  }
+  .btnContainer .btnNo {
+    color: black;
+    font-weight: 700;
+    padding: 2px;
+    transition: border ease-in-out 0ms;
+  }
+  .btnContainer .btnNo:hover {
+    border: 1.5px solid rgb(255, 0, 0);
+    font-weight: 700;
+    background-color: transparent;
+    padding: 0;
+  }
+  
+  .inputFormEdit {
+    width: 250px;
+    height: 30px;
+  }
+  
+  .formContainer {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    border-radius: 5px;
+    align-items: center;
+    gap: 10px;
+  }

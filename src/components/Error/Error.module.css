@@ -1,0 +1,13 @@
+.errorCustomText {
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    line-height: 1;
+    font-weight: 500;
+  }
+  
+  .errorCustom {
+    width: 30px;
+    height: 30px;
+    color: rgb(255, 0, 0);
+  }

@@ -1,0 +1,12 @@
+.iconContact {
+    margin-right: 10px;
+  }
+  
+  .btnDelete {
+    padding: 5px;
+  }
+  
+  .modalsContainer {
+    display: flex;
+    flex-direction: column;
+  }

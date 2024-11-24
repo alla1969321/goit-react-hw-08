@@ -1,0 +1,30 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  .registrationContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .registrationTitle {
+    margin-bottom: 10px;
+  }
+  
+  .loginBtn {
+    background-color: rgb(4, 0, 255);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+  }
+  
+  .loginBtn:hover {
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+  }

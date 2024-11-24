@@ -1,0 +1,15 @@
+.link {
+    text-decoration: none;
+    color: rgb(0, 42, 255);
+  }
+  
+  .active {
+    margin-bottom: 7px;
+    color: rgb(0, 13, 255);
+    font-weight: 700;
+  }
+  
+  .navList {
+    display: flex;
+    gap: 10px;
+  }

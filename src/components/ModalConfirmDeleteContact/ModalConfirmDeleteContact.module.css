@@ -1,0 +1,44 @@
+.trashBtn {
+    color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+  }
+  .trashBtn:hover {
+    color: rgb(255, 0, 17);
+  }
+  
+  .modalContainer .openBtn:hover {
+    background-color: transparent;
+  }
+  .modalContainer .openBtn {
+    min-width: 23px;
+    min-height: 23px;
+    padding: 0;
+  }
+  
+  .btnContainer {
+    margin-top: 20px;
+  }
+  
+  .btnContainer .btnYes {
+    color: black;
+    font-weight: 700;
+    transition: border ease-in-out 0ms;
+  }
+  .btnContainer .btnYes:hover {
+    border: 1.5px solid rgb(255, 0, 17);
+    font-weight: 700;
+    background-color: transparent;
+    padding: 0;
+  }
+  .btnContainer .btnNo {
+    color: black;
+    font-weight: 700;
+    transition: border ease-in-out 0ms;
+  }
+  .btnContainer .btnNo:hover {
+    border: 1.5px solid rgb(83, 174, 91);
+    font-weight: 700;
+    background-color: transparent;
+    padding: 0;
+  }

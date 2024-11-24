@@ -1,0 +1,12 @@
+.loaderContainer {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+  }
+  
+  .mainTitle {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    margin-right: 30px;
+  }
