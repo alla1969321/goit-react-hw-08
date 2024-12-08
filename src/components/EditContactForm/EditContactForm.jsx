@@ -126,4 +126,4 @@ const EditContactForm = ({ name, number, id, onClose }) => {
   );
 };
 
-export default EditContactForm;
+export default EditContactForm; 

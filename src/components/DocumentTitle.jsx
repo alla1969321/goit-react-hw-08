@@ -8,4 +8,4 @@ const DocumentTitle = ({ children }) => {
   );
 };
 
-export default DocumentTitle;
+export default DocumentTitle; 
