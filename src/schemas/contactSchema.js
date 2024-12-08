@@ -13,4 +13,4 @@ export const ContactSchema = Yup.object().shape({
     )
     .max(9, 'Too Long!')
     .required('Required'),
-});
+}); 

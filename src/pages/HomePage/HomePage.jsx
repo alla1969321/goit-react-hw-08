@@ -27,7 +27,7 @@ const HomePage = () => {
             backgroundClip: 'text',
           }}
         >
-          Contacts book application
+          Contacts book 
         </Typography>
 
         <Typography
@@ -38,7 +38,7 @@ const HomePage = () => {
             mb: 1,
           }}
         >
-          We take care of your information in the best traditions of Swiss banks
+          Contact   page
         </Typography>
 
         <Box
@@ -58,4 +58,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default HomePage; 

@@ -53,4 +53,4 @@ export const editContact = createAsyncThunk(
       return thunkAPI.rejectWithValue(error.message);
     }
   }
-);
+); 

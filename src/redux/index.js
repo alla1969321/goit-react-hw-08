@@ -10,4 +10,4 @@ export * as authSelectors from './auth/selectors';
 export * as authOps from './auth/operations';
 
 export * as themeSlice from './theme/slice';
-export * as themeSelectors from './theme/selectors';
+export * as themeSelectors from './theme/selectors'; 
